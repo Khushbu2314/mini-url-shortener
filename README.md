@@ -123,8 +123,3 @@ This project is built around a simple URL shortener workflow:
    - Utils and services contain shared logic for auth, hashing, JWTs, and URL generation.
 
 
-## Notes
-
-- Keep `venv/`, `.env`, and `__pycache__/` out of Git.
-- Update `README.md` when you add new features.
-- Use meaningful commit messages for each change.
