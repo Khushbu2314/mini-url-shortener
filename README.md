@@ -64,9 +64,6 @@ mini-url-shortener/
 ### Services
 - `app/services/` - Reserved for business logic and service-level helpers.
 
-### Screenshots
-- `app/screenshots/` - Place project screenshots here for documentation.
-
 ## Setup Instructions
 
 1. Clone or download the repository.
